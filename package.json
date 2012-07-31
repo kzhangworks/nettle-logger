@@ -1,0 +1,20 @@
+{
+  "name": "nettlelogger",
+  "description": "logger for nettle",
+  "version": "0.6.0-1",
+  "author": {
+    "name": "Kefeng Zhang"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/zkf9971/nettle-logger.git"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "dependencies": {
+    "log4js": "0.4.1"
+  },
+  "main": "nettlelogger",
+  "private": true
+}
